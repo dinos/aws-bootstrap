@@ -1,4 +1,3 @@
-//
 const { hostname } = require('os');
 const http = require('http');
 const message = 'Hello World\n';
